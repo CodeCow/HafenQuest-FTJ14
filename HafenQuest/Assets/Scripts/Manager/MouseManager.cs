@@ -22,7 +22,6 @@ public class MouseManager : MonoBehaviour {
 	{
 
 	}
-
 	public static MouseManager Instance
 	{
 		get{
